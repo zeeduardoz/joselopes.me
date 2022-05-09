@@ -181,7 +181,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href={i18next.language === 'en' ? '/resume.pdf' : '/curriculo.pdf'}
+      href={i18next.language === 'pt-BR' ? '/curriculo.pdf' : '/resume.pdf'}
       target="_blank"
       rel="noopener noreferrer">
       {t('Nav.Resume')}

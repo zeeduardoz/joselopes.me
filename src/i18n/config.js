@@ -2,12 +2,12 @@ import i18next from 'i18next';
 import detector from 'i18next-browser-languagedetector';
 
 i18next.use(detector).init({
-  fallbackLng: 'pt',
+  fallbackLng: 'pt-BR',
   resources: {
-    pt: {
+    'pt-BR': {
       translations: require('../locales/pt.json'),
     },
-    en: {
+    'en-US': {
       translations: require('../locales/en.json'),
     },
   },
@@ -23,6 +23,6 @@ i18next.use(detector).init({
   },
 });
 
-i18next.languages = ['pt', 'en'];
+i18next.languages = ['pt-BR', 'en-US'];
 
 export default i18next;

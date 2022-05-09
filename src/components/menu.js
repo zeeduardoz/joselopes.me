@@ -5,6 +5,8 @@ import styled from 'styled-components';
 import { navLinks } from '@config';
 import { KEY_CODES } from '@utils';
 import { useOnClickOutside } from '@hooks';
+import { useTranslation } from 'react-i18next';
+import i18next from 'i18next';
 
 const StyledMenu = styled.div`
   display: none;
@@ -157,6 +159,7 @@ const StyledSidebar = styled.aside`
 
 const Menu = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  const { t } = useTranslation();
 
   const toggleMenu = () => setMenuOpen(!menuOpen);
 
@@ -259,15 +262,17 @@ const Menu = () => {
                 {navLinks.map(({ url, name }, i) => (
                   <li key={i}>
                     <Link to={url} onClick={() => setMenuOpen(false)}>
-                      {name}
+                      {t(`Nav.${name}`)}
                     </Link>
                   </li>
                 ))}
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a
+              href={i18next.language === 'pt-BR' ? '/curriculo.pdf' : '/resume.pdf'}
+              className="resume-link">
+              {t('Nav.Resume')}
             </a>
           </nav>
         </StyledSidebar>

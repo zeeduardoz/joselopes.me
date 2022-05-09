@@ -80,19 +80,20 @@ const Container = styled.div`
 `;
 
 const LanguageMenu = () => {
-  const [active, setActive] = React.useState(i18next.language);
-
   const changeLanguage = lng => {
     i18next.changeLanguage(lng);
-    setActive(lng);
   };
 
   return (
     <Container>
-      <button id={active === 'pt' ? 'active' : 'no-active'} onClick={() => changeLanguage('pt')}>
+      <button
+        id={i18next.language === 'pt-BR' ? 'active' : 'no-active'}
+        onClick={() => changeLanguage('pt-BR')}>
         <img src={ptLogo} alt="PT" />
       </button>
-      <button id={active === 'en' ? 'active' : 'no-active'} onClick={() => changeLanguage('en')}>
+      <button
+        id={i18next.language === 'pt-BR' ? 'no-active' : 'active'}
+        onClick={() => changeLanguage('en-US')}>
         <img src={enLogo} alt="EN" />
       </button>
     </Container>
