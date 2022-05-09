@@ -351,7 +351,7 @@ const Featured = () => {
   `);
 
   const featuredProjects =
-    i18next.language === 'pt'
+    i18next.language === 'pt-BR'
       ? data.featuredPT.edges.filter(({ node }) => node)
       : data.featuredEN.edges.filter(({ node }) => node);
   const revealTitle = useRef(null);

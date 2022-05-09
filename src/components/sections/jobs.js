@@ -206,7 +206,7 @@ const Jobs = () => {
     }
   `);
 
-  const jobsData = i18next.language === 'pt' ? data.jobsPT.edges : data.jobsEN.edges;
+  const jobsData = i18next.language === 'pt-BR' ? data.jobsPT.edges : data.jobsEN.edges;
 
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
