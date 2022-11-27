@@ -8,3 +8,4 @@ url: 'https://www.nicnet.com.br/'
 ---
 
 - Participou do time de suporte técnico, realizando um trabalho de Excelência com o consumidor final.
+- Competências: Atendimento ao cliente · Vendas

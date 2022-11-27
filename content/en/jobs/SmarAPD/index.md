@@ -8,3 +8,4 @@ url: 'https://www.smarapd.com.br/'
 ---
 
 - Participated in the alpha team, working on the maintenance and creation of new features for the Taxation application.
+- Skills: Azure DevOps · ASP.NET · SQL · Scrum · React.js · SASS · Git

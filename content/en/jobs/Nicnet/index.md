@@ -8,3 +8,4 @@ url: 'https://www.nicnet.com.br/'
 ---
 
 - Participated in the technical support team, performing excellent work with the end consumer.
+- Skills: Atendimento ao cliente · Vendas
