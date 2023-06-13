@@ -13,4 +13,4 @@ url: 'https://quero2ingressos.com.br/'
 - Líder no desenvolvimento de 3 aplicativos móveis utilizando React Native.
 - Aplica boas práticas de código limpo e padrões de design para desenvolver código sustentável e escalável.
 
-- Competências: Liderança de equipe · TypeScript · Jest · React.js · Next.js · React Native · Git · AppCenter · Storybook · GitLab · JIRA · Scrum · Styled-components
+- Competências: Liderança de equipe · TypeScript · Jest · React.js · Next.js · React Native · Git · AppCenter · Storybook · GitLab · JIRA

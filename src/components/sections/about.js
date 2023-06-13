@@ -135,7 +135,7 @@ const About = () => {
     'React Native',
     'Next.js',
     'Styled-components',
-    'TailwindCSS',
+    'Tailwind',
     'ChakraUI',
   ];
 

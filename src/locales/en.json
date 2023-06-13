@@ -16,7 +16,7 @@
     },
     "About": {
       "title": "About Me",
-      "description": "Hello! My name is José Eduardo and I'm Software developer specializing in building exceptional websites and mobile apps with 3+ years involved in the entire software development lifecycle providing IT solutions for public and private organizations using React.js, React Native, Next.js. Passionate about learning new technologies like ChakraUI, TailwindCSS and techniques like JAMStack, finding solutions to work challenges and being part of a collaborative environment.",
+      "description": "Hello! My name is José Eduardo and I'm Software developer specializing in building exceptional websites and mobile apps with 3+ years involved in the entire software development lifecycle providing IT solutions for public and private organizations using React.js, React Native, Next.js. Passionate about learning new technologies like ChakraUI, Tailwind and techniques like JAMStack, finding solutions to work challenges and being part of a collaborative environment.",
       "tech": "Here are a few technologies I’ve been working with recently:"
     },
     "Jobs": {

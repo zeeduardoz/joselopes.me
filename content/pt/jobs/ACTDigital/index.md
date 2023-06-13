@@ -13,4 +13,4 @@ url: 'https://actdigital.com/pt/'
 - Participou do desenvolvimento do aplicativo mobile de agendamento, utilizando React Native.
 - Aplicou boas práticas de código limpo e padrões de design para desenvolver código sustentável e escalável.
 
-- Competências: TypeScript · Jest · React.js · React Native · Git · Azure DevOps · Scrum · Styled-components
+- Competências: TypeScript · Jest · React.js · React Native · Git · Azure DevOps

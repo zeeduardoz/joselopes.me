@@ -13,4 +13,4 @@ url: 'https://actdigital.com/'
 - Participated in the development of the scheduling mobile application, using React Native.
 - Applied clean code best practices and design patterns to develop maintainable and scalable code.
 
-- Skills: TypeScript · Jest · React.js · React Native · Git · Azure DevOps · Scrum · Styled-components
+- Skills: TypeScript · Jest · React.js · React Native · Git · Azure DevOps

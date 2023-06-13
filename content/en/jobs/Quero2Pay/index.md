@@ -13,4 +13,4 @@ url: 'https://quero2ingressos.com.br/'
 - Leader in the development of 3 mobile apps using React Native.
 - Apply clean code best practices and design patterns to develop maintainable and scalable code.
 
-- Skills: Team Leadership · TypeScript · Jest · React.js · Next.js · React Native · Git · AppCenter · Storybook · GitLab · JIRA · Scrum · Styled-components
+- Skills: Team Leadership · TypeScript · Jest · React.js · Next.js · React Native · Git · AppCenter · Storybook · GitLab · JIRA
