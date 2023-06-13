@@ -6,7 +6,6 @@ external: 'https://dustshop.net'
 tech:
   - React.js
   - Next.js
-  - Styled-components
 ---
 
 DustShop é um empresa de desenvolvimento de softwares, onde é utilizado as melhores tecnologias e estratégias para criar sites e apps, sou o responsável pelo desenvolvimento da landing page da empresa.
