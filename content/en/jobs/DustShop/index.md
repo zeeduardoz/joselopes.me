@@ -3,7 +3,7 @@ date: '2019-12-01'
 title: 'Front-end Developer'
 company: 'DustShop'
 location: 'São Paulo, BR'
-range: 'Dez 2019 - Mar 2022'
+range: 'Dec 2019 - Mar 2022'
 url: 'https://dustshop.net/'
 ---
 

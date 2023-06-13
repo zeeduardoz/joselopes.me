@@ -3,7 +3,7 @@ date: '2021-11-01'
 title: 'Front-end Developer'
 company: 'ACT Digital'
 location: 'São Paulo, BR'
-range: 'Nov 2021 - Dez 2022'
+range: 'Nov 2021 - Dec 2022'
 url: 'https://actdigital.com/'
 ---
 
