@@ -1,8 +1,8 @@
 ---
-date: '2'
+date: '3'
 title: 'Hylex Minecraft Server'
 cover: './demo.png'
-external: 'https://loja.hylex.net'
+external: 'https://hylex-shop-frontend.vercel.app/'
 tech:
   - React.js
   - Next.js

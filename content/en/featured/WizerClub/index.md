@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Wizer Club'
+title: 'WizerClub'
 cover: './demo.png'
 external: 'https://wizer.club'
 tech:

@@ -1,13 +1,17 @@
 ---
 date: '2022-06-01'
-title: 'Mobile Developer'
+title: 'Front-end Developer'
 company: 'Quero 2 Pay'
 location: 'Franca, BR'
 range: 'Jun 2022 - Present'
 url: 'https://quero2ingressos.com.br/'
 ---
 
-- Acts in the 'React Native' stack in the ticket squad.
-- Participates in the development of the application for the Q2 Ingressos product.
-- Apply clean code best practices and design patterns to develop sustainable and scalable code.
-- Competências: JIRA · Jest · Scrum · Liderança de equipe · React Native · Styled-components · TypeScript · Git
+- Bringing internal innovation to the products, where he is responsible for the development of the Design System.
+- Participates in the development of web applications using React.js, Next.js.
+- Gained experience publishing apps on the Apple Store and Google Play.
+- Responsible for the CI/CD part of the applications, using AppCenter, FastLane, CodePush technologies.
+- Leader in the development of 3 mobile apps using React Native.
+- Apply clean code best practices and design patterns to develop maintainable and scalable code.
+
+- Skills: Team Leadership · TypeScript · Jest · React.js · Next.js · React Native · Git · AppCenter · Storybook · GitLab · JIRA · Scrum · Styled-components
