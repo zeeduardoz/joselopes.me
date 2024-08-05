@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'José Eduardo',
     description:
-      'José Eduardo is a software developer based in Cravinhos, SP - BR, specializing in building exceptional websites and mobile applications, and everything in between.',
+      'José Eduardo is a senior front-end developer based in Ribeirão Preto, SP, specializing in building exceptional websites and mobile applications, and everything in between.',
     siteUrl: 'https://joselopes.me',
     image: '/og.png',
     twitterUsername: '@zeeduardoz',

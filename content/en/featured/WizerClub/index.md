@@ -5,8 +5,8 @@ cover: './demo.png'
 external: 'https://wizer.club'
 tech:
   - React Native
-  - React.js
-  - Next.js
+  - React Native Web
+  - Expo
   - Nest.js
 ---
 

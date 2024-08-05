@@ -7,7 +7,7 @@ tech:
   - React.js
   - Next.js
   - Tailwind
-  - Express.js
+  - Nest.js
 ---
 
 Hylex é um servidor de minecraft onde os administradores pediram para realizar um projeto de site para eles. Eu criei o front-end enquanto o back-end foi desenvolvido por [André Contiero](https://www.linkedin.com/in/andr%C3%A9-contiero-3b04581a5/).

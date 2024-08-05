@@ -129,13 +129,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript',
     'TypeScript',
     'React',
     'React Native',
+    'React Native Web',
     'Next.js',
-    'HTML & CSS',
-    'Tailwind',
+    'Expo',
+    'TailwindCSS',
+    'NativeWind',
     'ChakraUI',
   ];
 

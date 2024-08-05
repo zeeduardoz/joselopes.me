@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/jose-eduardo-rodrigues-lopes',
+      url: 'https://www.linkedin.com/in/zeeduardoz',
     },
   ],
 

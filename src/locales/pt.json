@@ -10,14 +10,14 @@
     "Hero": {
       "hello": "Olá, meu nome é",
       "name": "José Eduardo.",
-      "title": "Eu crio sites e aplicativos.",
-      "description": "Sou desenvolvedor de software, especializado na construção de sites e aplicativos móveis excepcionais.",
+      "title": "Eu crio aplicativos e sites.",
+      "description": "Sou um Senior Front-end Developer, especializado na construção de aplicativos e sites excepcionais.",
       "button": "Entrar em contato"
     },
     "About": {
       "title": "Sobre mim",
-      "description": "Desenvolvedor de software especializado na construção de sites e aplicativos móveis excepcionais, com mais de 4 anos envolvidos em todo o ciclo de vida de desenvolvimento de software fornecendo soluções de TI para organizações públicas e privadas, utilizando as melhores ferramentas e tecnologias do mercado atual. Sou apaixonado por aprender novas tecnologias como ChakraUI, Tailwind e técnicas como JAMStack e também de encontrar soluções para desafios de trabalho e fazer parte de um ambiente colaborativo.",
-      "tech": "Aqui estão algumas tecnologias com as quais tenho trabalhado recentemente:"
+      "description": "Sou um Senior Front-end Developer especializado em desenvolvimento mobile. Minha principal stack inclui React, React Native, Next.js e Expo. Prezo pela qualidade de código e pela criação de uma excelente experiência para o usuário final. Sempre busco me manter atualizado com as últimas tendências tecnológicas, como a crescente adoção do React Native para web, desktop e tvOS. Estou constantemente aprendendo e aplicando novas práticas para garantir que os projetos em que trabalho sejam inovadores, eficientes e proporcionem o melhor desempenho possível. Se você está procurando um desenvolvedor comprometido com a excelência e apaixonado por tecnologias de ponta, vamos nos conectar!",
+      "tech": "Aqui estão algumas tecnologias com as quais experiência:"
     },
     "Jobs": {
       "title": "Onde Trabalhei"
